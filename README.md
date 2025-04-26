@@ -1,2 +1,2 @@
-# PfDHODH_QSAR_Project
-Machine learning-based QSAR modeling of Plasmodium falciparum dihydroorotate dehydrogenase (PfDHODH) inhibitors to identify potential antimalarial compounds and address drug resistance.
+# QSAR Modeling of PfDHODH Inhibitors Using Machine Learning
+This project focuses on developing Quantitative Structure-Activity Relationship (QSAR) models to predict the inhibitory activity of compounds against Plasmodium falciparum dihydroorotate dehydrogenase (PfDHODH). By leveraging machine learning techniques, the study aims to identify potential antimalarial agents to combat drug-resistant strains of malaria.
