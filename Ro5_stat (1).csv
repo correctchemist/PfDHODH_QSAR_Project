@@ -1,0 +1,17 @@
+class,stat,label
+active,321.6727574257426,meanMWac
+inactive,317.9099695817491,meanMWin
+active,38.61207360380481,SDMWac
+inactive,55.318972679333,SDMWin
+active,3.7586624752475264,meanLogPac
+inactive,3.533099695817492,meanLogPin
+active,0.8584952421324147,SDLogPac
+inactive,1.4399120576210036,SDLogPin
+active,1.0297029702970297,meanNumHDonorsac
+inactive,1.3079847908745248,meanNumHDonorsin
+active,0.170188396898539,SDNumHDonorsac
+inactive,0.6179664753474058,SDNumHDonorsin
+active,4.584158415841584,meanNumHAcceptorsac
+inactive,4.730038022813688,meanNumHAcceptorsin
+active,1.0721933323537067,SDNumHAcceptorsac
+inactive,1.3073963106313877,SDNumHAcceptorsin
